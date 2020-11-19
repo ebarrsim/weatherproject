@@ -1,0 +1,145 @@
+.title {
+  text-align: center;
+  padding: 20px 30px;
+  font-size: 45px;
+}
+
+.container {
+  padding: 30px 50px;
+  margin: 30px auto;
+  width: 1000px;
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  font-family: sans-serif;
+  font-weight: 200;
+}
+
+.tiptop {
+  position: relative;
+  right: 40px;
+  width: 500px;
+}
+
+.shoulders {
+  position: relative;
+  left: 40px;
+}
+
+.currentLocation {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 20px;
+}
+
+.icon {
+  position: relative;
+
+  bottom: 15px;
+}
+
+.night {
+  font-size: 80px;
+  position: relative;
+  left: 80px;
+  bottom: 30px;
+}
+
+.precipitation {
+  position: relative;
+  right: 80px;
+  top: 20px;
+  width: 80px;
+  font-size: 10px;
+  text-align: center;
+}
+
+.wind {
+  position: relative;
+  right: 60px;
+  top: 20px;
+  font-size: 10px;
+  width: 80px;
+}
+
+.humidity {
+  position: relative;
+  left: 125px;
+  bottom: 9px;
+  font-size: 10px;
+  width: 80px;
+}
+.midriff {
+  position: relative;
+  left: 20px;
+  margin: 30px 0 0 0;
+  padding: 15px 0 0 20px;
+  font-size: 30px;
+  text-align: inherit;
+}
+.week {
+  text-align: center;
+}
+
+.bottom {
+  text-align: center;
+  font-size: 60px;
+}
+
+.second {
+  display: block;
+  padding: 18px;
+  font-size: 30px;
+}
+
+.third {
+  display: block;
+  padding: 12px;
+  font-size: 35px;
+}
+
+.fourth {
+  display: block;
+  padding: 13px;
+  font-size: 35px;
+}
+
+.fifth {
+  display: block;
+  padding: 13px;
+  font-size: 35px;
+}
+
+.sixth {
+  display: block;
+  padding: 18px;
+  font-size: 35px;
+}
+
+.seventh {
+  display: block;
+  padding: 11px;
+  font-size: 30px;
+}
+
+.location {
+  text-align: center;
+}
+img {
+  position: relative;
+  right: 25px;
+  width: 500px;
+  padding: 15px;
+}
+h2 {
+  padding: 30px 5px 30px 5px;
+  width: 250px;
+  font-size: 60px;
+  text-align: center;
+}
+
+h3 {
+  position: relative;
+  right: 30px;
+  font-size: 25px;
+  color: rgba(0, 0, 0, 0.6);
+  padding: 10px 30px 10px 10px;
+}
